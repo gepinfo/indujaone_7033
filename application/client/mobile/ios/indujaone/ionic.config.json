@@ -1,0 +1,7 @@
+{
+  "name": "indujaone",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
